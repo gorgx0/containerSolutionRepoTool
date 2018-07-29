@@ -1,0 +1,674 @@
+[
+  {
+    "name": "a-tour-of-docker-nluug-2014",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/a-tour-of-docker-nluug-2014/issues{/number}"
+  },
+  {
+    "name": "adidas",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/adidas/issues{/number}"
+  },
+  {
+    "name": "adobe-workshop",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/adobe-workshop/issues{/number}"
+  },
+  {
+    "name": "argus-gephi-connector",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/argus-gephi-connector/issues{/number}"
+  },
+  {
+    "name": "aws-google-auth",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/aws-google-auth/issues{/number}"
+  },
+  {
+    "name": "bootstrap-habitat-supervisors-on-k8s",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/bootstrap-habitat-supervisors-on-k8s/issues{/number}"
+  },
+  {
+    "name": "calico",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/calico/issues{/number}"
+  },
+  {
+    "name": "cattlestore",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/cattlestore/issues{/number}"
+  },
+  {
+    "name": "cattlestore-herder",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/cattlestore-herder/issues{/number}"
+  },
+  {
+    "name": "cd-with-docker-tutorial",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/cd-with-docker-tutorial/issues{/number}"
+  },
+  {
+    "name": "cd_demo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/cd_demo/issues{/number}"
+  },
+  {
+    "name": "cgroup-page-cache-experiments",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/cgroup-page-cache-experiments/issues{/number}"
+  },
+  {
+    "name": "charts",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/charts/issues{/number}"
+  },
+  {
+    "name": "cobblerclient",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/cobblerclient/issues{/number}"
+  },
+  {
+    "name": "codeship-docker-compose-examples",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/codeship-docker-compose-examples/issues{/number}"
+  },
+  {
+    "name": "construct",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/construct/issues{/number}"
+  },
+  {
+    "name": "container-vm-guestbook-redis-python",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/container-vm-guestbook-redis-python/issues{/number}"
+  },
+  {
+    "name": "containerbuddy",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/containerbuddy/issues{/number}"
+  },
+  {
+    "name": "containerpilot-ui",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/containerpilot-ui/issues{/number}"
+  },
+  {
+    "name": "core-plans",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/core-plans/issues{/number}"
+  },
+  {
+    "name": "d3.layout.orbit",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/d3.layout.orbit/issues{/number}"
+  },
+  {
+    "name": "dcos-ansible-packet",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/dcos-ansible-packet/issues{/number}"
+  },
+  {
+    "name": "dcos-in-triton",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/dcos-in-triton/issues{/number}"
+  },
+  {
+    "name": "dcos-terraform-scaleway",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/dcos-terraform-scaleway/issues{/number}"
+  },
+  {
+    "name": "devops-journey",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/devops-journey/issues{/number}"
+  },
+  {
+    "name": "devops-utrecht-25-08-2016-minimesos",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/devops-utrecht-25-08-2016-minimesos/issues{/number}"
+  },
+  {
+    "name": "devopsdays-warsaw-2016-minimesos",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/devopsdays-warsaw-2016-minimesos/issues{/number}"
+  },
+  {
+    "name": "dind",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/dind/issues{/number}"
+  },
+  {
+    "name": "distribution",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/distribution/issues{/number}"
+  },
+  {
+    "name": "docker-cobbler",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/docker-cobbler/issues{/number}"
+  },
+  {
+    "name": "docker-consul",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/docker-consul/issues{/number}"
+  },
+  {
+    "name": "docker-hello-world",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/docker-hello-world/issues{/number}"
+  },
+  {
+    "name": "docker-openmpi",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/docker-openmpi/issues{/number}"
+  },
+  {
+    "name": "docker-registry-proxy",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/docker-registry-proxy/issues{/number}"
+  },
+  {
+    "name": "docker-vault",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/docker-vault/issues{/number}"
+  },
+  {
+    "name": "dockerhub-notification-plugin",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/dockerhub-notification-plugin/issues{/number}"
+  },
+  {
+    "name": "DreddDemo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/DreddDemo/issues{/number}"
+  },
+  {
+    "name": "drone-data",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/drone-data/issues{/number}"
+  },
+  {
+    "name": "easykube",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/easykube/issues{/number}"
+  },
+  {
+    "name": "elasticsearch",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/elasticsearch/issues{/number}"
+  },
+  {
+    "name": "elasticsearch-scheduler-docker",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/elasticsearch-scheduler-docker/issues{/number}"
+  },
+  {
+    "name": "elasticsearch-zookeeper",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/elasticsearch-zookeeper/issues{/number}"
+  },
+  {
+    "name": "elk",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/elk/issues{/number}"
+  },
+  {
+    "name": "environment-chesttorch-staging",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/environment-chesttorch-staging/issues{/number}"
+  },
+  {
+    "name": "face_classification",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/face_classification/issues{/number}"
+  },
+  {
+    "name": "flux",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/flux/issues{/number}"
+  },
+  {
+    "name": "flux-demo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/flux-demo/issues{/number}"
+  },
+  {
+    "name": "frame",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/frame/issues{/number}"
+  },
+  {
+    "name": "gapp",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/gapp/issues{/number}"
+  },
+  {
+    "name": "geoserver",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/geoserver/issues{/number}"
+  },
+  {
+    "name": "github-hugo-lambda",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/github-hugo-lambda/issues{/number}"
+  },
+  {
+    "name": "go-example-webserver",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/go-example-webserver/issues{/number}"
+  },
+  {
+    "name": "go-utils",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/go-utils/issues{/number}"
+  },
+  {
+    "name": "google-cloud-cli",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/google-cloud-cli/issues{/number}"
+  },
+  {
+    "name": "goto-k8s",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/goto-k8s/issues{/number}"
+  },
+  {
+    "name": "goto-prometheus",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/goto-prometheus/issues{/number}"
+  },
+  {
+    "name": "groovy-dsl-sandbox",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/groovy-dsl-sandbox/issues{/number}"
+  },
+  {
+    "name": "guestbook",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/guestbook/issues{/number}"
+  },
+  {
+    "name": "habitat",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/habitat/issues{/number}"
+  },
+  {
+    "name": "habitat-demo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/habitat-demo/issues{/number}"
+  },
+  {
+    "name": "habitat-dev-env",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/habitat-dev-env/issues{/number}"
+  },
+  {
+    "name": "habitat-redis-ha-cluster-on-k8s",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/habitat-redis-ha-cluster-on-k8s/issues{/number}"
+  },
+  {
+    "name": "helm-monitor",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/helm-monitor/issues{/number}"
+  },
+  {
+    "name": "hostnamer",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/hostnamer/issues{/number}"
+  },
+  {
+    "name": "ImageWolf",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/ImageWolf/issues{/number}"
+  },
+  {
+    "name": "influxdb",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/influxdb/issues{/number}"
+  },
+  {
+    "name": "jMeter-docker",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/jMeter-docker/issues{/number}"
+  },
+  {
+    "name": "k8s-deployment-strategies",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/k8s-deployment-strategies/issues{/number}"
+  },
+  {
+    "name": "k8s-federation-demo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/k8s-federation-demo/issues{/number}"
+  },
+  {
+    "name": "k8sbhw",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/k8sbhw/issues{/number}"
+  },
+  {
+    "name": "k8shserver",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/k8shserver/issues{/number}"
+  },
+  {
+    "name": "kibana",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kibana/issues{/number}"
+  },
+  {
+    "name": "kubadm-ansible",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubadm-ansible/issues{/number}"
+  },
+  {
+    "name": "kubecon-2017",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubecon-2017/issues{/number}"
+  },
+  {
+    "name": "kubectl-pause",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubectl-pause/issues{/number}"
+  },
+  {
+    "name": "kubernetes-audit",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubernetes-audit/issues{/number}"
+  },
+  {
+    "name": "kubernetes-bootcamp",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubernetes-bootcamp/issues{/number}"
+  },
+  {
+    "name": "kubernetes-demo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubernetes-demo/issues{/number}"
+  },
+  {
+    "name": "kubernetes-deployment-tools",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubernetes-deployment-tools/issues{/number}"
+  },
+  {
+    "name": "kubernetes-federation-demo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubernetes-federation-demo/issues{/number}"
+  },
+  {
+    "name": "kubernetes.github.io",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kubernetes.github.io/issues{/number}"
+  },
+  {
+    "name": "kuberviz",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/kuberviz/issues{/number}"
+  },
+  {
+    "name": "lambda-serverless-guestbook",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/lambda-serverless-guestbook/issues{/number}"
+  },
+  {
+    "name": "lean-go-containers",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/lean-go-containers/issues{/number}"
+  },
+  {
+    "name": "learning-mesos-with-minimesos-workshop",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/learning-mesos-with-minimesos-workshop/issues{/number}"
+  },
+  {
+    "name": "libmesos",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/libmesos/issues{/number}"
+  },
+  {
+    "name": "logstash-demo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/logstash-demo/issues{/number}"
+  },
+  {
+    "name": "mantl",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mantl/issues{/number}"
+  },
+  {
+    "name": "marathon",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/marathon/issues{/number}"
+  },
+  {
+    "name": "marathon-haproxy-subdomain-bridge",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/marathon-haproxy-subdomain-bridge/issues{/number}"
+  },
+  {
+    "name": "md-carts",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/md-carts/issues{/number}"
+  },
+  {
+    "name": "mentor-week-local-download",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mentor-week-local-download/issues{/number}"
+  },
+  {
+    "name": "mesos-calico-cni-sandbox",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesos-calico-cni-sandbox/issues{/number}"
+  },
+  {
+    "name": "mesos-consul",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesos-consul/issues{/number}"
+  },
+  {
+    "name": "mesos-deb-packaging",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesos-deb-packaging/issues{/number}"
+  },
+  {
+    "name": "mesos-hello-world",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesos-hello-world/issues{/number}"
+  },
+  {
+    "name": "mesos-local",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesos-local/issues{/number}"
+  },
+  {
+    "name": "mesos-rxjava",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesos-rxjava/issues{/number}"
+  },
+  {
+    "name": "mesos-starter",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesos-starter/issues{/number}"
+  },
+  {
+    "name": "mesoscon-2016-minimesos",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesoscon-2016-minimesos/issues{/number}"
+  },
+  {
+    "name": "mesosframework",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/mesosframework/issues{/number}"
+  },
+  {
+    "name": "minimesos",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minimesos/issues{/number}"
+  },
+  {
+    "name": "minimesos-docker",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minimesos-docker/issues{/number}"
+  },
+  {
+    "name": "minimesos-golang",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minimesos-golang/issues{/number}"
+  },
+  {
+    "name": "minimesos-maven-plugin",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minimesos-maven-plugin/issues{/number}"
+  },
+  {
+    "name": "minimesos-mdns",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minimesos-mdns/issues{/number}"
+  },
+  {
+    "name": "minimesos-scenarios",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minimesos-scenarios/issues{/number}"
+  },
+  {
+    "name": "minimesos-webfw-evaluation",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minimesos-webfw-evaluation/issues{/number}"
+  },
+  {
+    "name": "minimesos.org",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minimesos.org/issues{/number}"
+  },
+  {
+    "name": "minishift-b2d-iso",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/minishift-b2d-iso/issues{/number}"
+  },
+  {
+    "name": "nixpkgs-overlay",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/nixpkgs-overlay/issues{/number}"
+  },
+  {
+    "name": "nluug-2016-minimesos",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/nluug-2016-minimesos/issues{/number}"
+  },
+  {
+    "name": "node-hack",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/node-hack/issues{/number}"
+  },
+  {
+    "name": "node-openshift-sample",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/node-openshift-sample/issues{/number}"
+  },
+  {
+    "name": "nodejs-ex",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/nodejs-ex/issues{/number}"
+  },
+  {
+    "name": "packet-terraform",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/packet-terraform/issues{/number}"
+  },
+  {
+    "name": "paris-container-day-2016-tech-session",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/paris-container-day-2016-tech-session/issues{/number}"
+  },
+  {
+    "name": "patterns",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/patterns/issues{/number}"
+  },
+  {
+    "name": "pcf-crdb-service-broker",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/pcf-crdb-service-broker/issues{/number}"
+  },
+  {
+    "name": "php-k8s",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/php-k8s/issues{/number}"
+  },
+  {
+    "name": "Pizza",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/Pizza/issues{/number}"
+  },
+  {
+    "name": "pres-base",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/pres-base/issues{/number}"
+  },
+  {
+    "name": "pres-prereq-to-docker",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/pres-prereq-to-docker/issues{/number}"
+  },
+  {
+    "name": "pres-workshop-intro",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/pres-workshop-intro/issues{/number}"
+  },
+  {
+    "name": "prometheus-swarm-discovery",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/prometheus-swarm-discovery/issues{/number}"
+  },
+  {
+    "name": "puppetmaster",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/puppetmaster/issues{/number}"
+  },
+  {
+    "name": "puppetslave",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/puppetslave/issues{/number}"
+  },
+  {
+    "name": "python-consul",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/python-consul/issues{/number}"
+  },
+  {
+    "name": "python-mock",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/python-mock/issues{/number}"
+  },
+  {
+    "name": "registration-function",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/registration-function/issues{/number}"
+  },
+  {
+    "name": "registry-tooling",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/registry-tooling/issues{/number}"
+  },
+  {
+    "name": "registry-wolf",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/registry-wolf/issues{/number}"
+  },
+  {
+    "name": "reveal-md",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/reveal-md/issues{/number}"
+  },
+  {
+    "name": "reveal.js",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/reveal.js/issues{/number}"
+  },
+  {
+    "name": "sandbox-weave-net-k8s",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/sandbox-weave-net-k8s/issues{/number}"
+  },
+  {
+    "name": "sandbox-weave-net-minimesos",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/sandbox-weave-net-minimesos/issues{/number}"
+  },
+  {
+    "name": "scala-kafka-client",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/scala-kafka-client/issues{/number}"
+  },
+  {
+    "name": "ServerlessDaysAmsterdam",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/ServerlessDaysAmsterdam/issues{/number}"
+  },
+  {
+    "name": "space-oddity",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/space-oddity/issues{/number}"
+  },
+  {
+    "name": "stackdriver-gke-custom-metrics",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/stackdriver-gke-custom-metrics/issues{/number}"
+  },
+  {
+    "name": "swarm",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/swarm/issues{/number}"
+  },
+  {
+    "name": "template-golang-helloworld",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/template-golang-helloworld/issues{/number}"
+  },
+  {
+    "name": "template-spring-boot",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/template-spring-boot/issues{/number}"
+  },
+  {
+    "name": "terraform",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/terraform/issues{/number}"
+  },
+  {
+    "name": "terraform-azure",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/terraform-azure/issues{/number}"
+  },
+  {
+    "name": "terraform-mesos",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/terraform-mesos/issues{/number}"
+  },
+  {
+    "name": "terraform-nomad",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/terraform-nomad/issues{/number}"
+  },
+  {
+    "name": "terraform-provider-cobbler",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/terraform-provider-cobbler/issues{/number}"
+  },
+  {
+    "name": "terraform-provider-template",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/terraform-provider-template/issues{/number}"
+  },
+  {
+    "name": "terraform.py",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/terraform.py/issues{/number}"
+  },
+  {
+    "name": "toolset",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/toolset/issues{/number}"
+  },
+  {
+    "name": "traefik-sandbox",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/traefik-sandbox/issues{/number}"
+  },
+  {
+    "name": "triton-mysql",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/triton-mysql/issues{/number}"
+  },
+  {
+    "name": "trow",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/trow/issues{/number}"
+  },
+  {
+    "name": "uam",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/uam/issues{/number}"
+  },
+  {
+    "name": "unifi-fargate",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/unifi-fargate/issues{/number}"
+  },
+  {
+    "name": "universe",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/universe/issues{/number}"
+  },
+  {
+    "name": "vagrant-nifi-cluster",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/vagrant-nifi-cluster/issues{/number}"
+  },
+  {
+    "name": "vizceral",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/vizceral/issues{/number}"
+  },
+  {
+    "name": "vizceral-example",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/vizceral-example/issues{/number}"
+  },
+  {
+    "name": "weaveDemo",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/weaveDemo/issues{/number}"
+  },
+  {
+    "name": "weaviate",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/weaviate/issues{/number}"
+  },
+  {
+    "name": "WheelOfFortune",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/WheelOfFortune/issues{/number}"
+  },
+  {
+    "name": "workshop-autopilot",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/workshop-autopilot/issues{/number}"
+  },
+  {
+    "name": "ws-k8s-foundation-sample-app",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/ws-k8s-foundation-sample-app/issues{/number}"
+  },
+  {
+    "name": "ws-production-grade-kubernetes",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/ws-production-grade-kubernetes/issues{/number}"
+  },
+  {
+    "name": "ws-terraform-gce",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/ws-terraform-gce/issues{/number}"
+  },
+  {
+    "name": "zookeeper",
+    "issues_url": "https://api.github.com/repos/ContainerSolutions/zookeeper/issues{/number}"
+  }
+]
